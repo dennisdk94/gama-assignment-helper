@@ -1,6 +1,8 @@
 .card-body {
   height: 150px;
   max-height: 150px;
+  background:#FFF;
+  margin-bottom: 20px;
 }
 
 .property-type {
